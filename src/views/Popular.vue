@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+  <div class="popular">
+    <h1>THIS IS POPULAR PAGE</h1>
   </div>
 </template>
 
@@ -8,8 +8,11 @@
 // @ is an alias to /src
 
 export default {
-  name: 'Home',
+  name: 'Popular',
   components: {
   }
 }
 </script>
+<style>
+
+</style>
